@@ -3,4 +3,6 @@
 - Criação de testes automatizados
 
 <hr />
-# iniciando primeiros testes
+#iniciando primeiros testes
+- podemos usar mais de um describe para separar nossos testes em etapas ou subcategorias
+- precisa renderizar o componente onde se encontra o objeto de teste antes
