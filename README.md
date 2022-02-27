@@ -6,3 +6,4 @@
 #iniciando primeiros testes
 - podemos usar mais de um describe para separar nossos testes em etapas ou subcategorias
 - precisa renderizar o componente onde se encontra o objeto de teste antes
+- para realizarmos teste de funções, precisamos implementar as variáveis necessárias antes e colocar a função
